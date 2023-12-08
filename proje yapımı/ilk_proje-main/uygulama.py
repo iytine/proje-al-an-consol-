@@ -1,0 +1,2 @@
+import anamenu
+anamenu.Anamenu()
